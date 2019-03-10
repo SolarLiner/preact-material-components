@@ -78,7 +78,7 @@
     "material-components-web": "0.39.3"
   },
   "peerDependencies": {
-    "preact": "*"
+    "preact": "^10.0.0-alpha.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
@@ -133,7 +133,7 @@
     "mocha": "^5.2.0",
     "pixelmatch": "^4.0.2",
     "pngjs": "^3.4.0",
-    "preact": "^8.4.2",
+    "preact": "^10.0.0-alpha.1",
     "prettier": "^1.16.4",
     "puppeteer": "^1.13.0",
     "tslint": "^5.13.1",
